@@ -1,0 +1,21 @@
+#div{
+    /* border: 2px solid red; */
+    height: 600px;
+    width: 600px;
+    position: absolute;
+    left: 30%;
+    background-color: rgba(169, 169, 169, 0.562);
+}
+table{
+    position: absolute;
+    left: 22%;
+    bottom: 20%;
+    border-color: rgba(169, 169, 169, 0.562);
+}
+.td1{
+    border-color: black;
+    background-color: black; 
+}
+.td2{
+    background-color: darkgray;
+}
